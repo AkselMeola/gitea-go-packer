@@ -7,6 +7,9 @@ So after running my own bash script for a while, I encountered some random issue
 this critter and hopefully live happily ever after :) 
 
 
+# TODO: 
+Unitl no pubRepos access, using : https://github.com/AkselMeola/gitea-go-packer
+
 
 
 ## See more

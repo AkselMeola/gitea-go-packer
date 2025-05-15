@@ -1,4 +1,4 @@
-module gitea-go-packer
+module github.com/AkselMeola/gitea-go-packer
 
 go 1.24.2
 
